@@ -5,7 +5,7 @@ public class Math {
     }
 
     public int sub (int first, int second) {
-        
-        return (first + second);
+        System.out.println("Simons sout");
+        return (first - second);
     }
 }
